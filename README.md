@@ -1,1 +1,2 @@
-# setup for debug django in docker
+# 
+Setup initial for debug django in docker

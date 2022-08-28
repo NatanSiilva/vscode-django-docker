@@ -1,1 +1,1 @@
-# vscode-django-docker
+# setup for debug django in docker
